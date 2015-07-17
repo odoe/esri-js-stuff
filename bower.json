@@ -1,0 +1,17 @@
+{
+  "name": "arcgis-js-api",
+  "version": "0.0.0",
+  "homepage": "",
+  "authors": [
+    ""
+  ],
+  "description": "placeholder",
+  "license": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
